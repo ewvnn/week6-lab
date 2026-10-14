@@ -3,3 +3,7 @@ __pycache__/
 .venv/
 .coverage
 .DS_Store
+build/
+staged/
+*.zip
+app.log
